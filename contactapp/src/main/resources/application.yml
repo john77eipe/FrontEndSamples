@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /contact
+
+logging:
+  level:
+    org.springframework: TRACE
+    com: TRACE
